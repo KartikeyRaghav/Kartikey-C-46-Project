@@ -15,7 +15,7 @@ var result1 = 0, result2 = 0, result3 = 0;
 function preload(){
   player1Won = loadSound("Sounds/ding.mp3");
   player2Won = loadSound("Sounds/Sound.mp3");
-  draww = loadSound("Sounds/checkpoint.mp3");
+  draww = loadSound("Sounds/checkPoint.mp3");
 }
 
 
